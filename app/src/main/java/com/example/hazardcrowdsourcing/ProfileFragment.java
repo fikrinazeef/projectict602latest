@@ -66,7 +66,7 @@ public class ProfileFragment extends Fragment implements  AdapterView.OnItemClic
         url.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                URL("https://github.com/fikrinazeef/projectict602");
+                URL("https://github.com/fikrinazeef/projectict602latest");
             }
         });
 
